@@ -1,1 +1,2 @@
 Este es el archivo test2 para el parcial
+Modificación en test2.txt para el parcial
